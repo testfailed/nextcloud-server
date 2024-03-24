@@ -113,7 +113,7 @@
     "vuedraggable": "^2.24.3",
     "vuex": "^3.6.2",
     "vuex-router-sync": "^5.0.0",
-    "webdav": "^5.0.0-r3"
+    "webdav": "^5.5.0"
   },
   "devDependencies": {
     "@babel/node": "^7.20.7",
@@ -121,7 +121,7 @@
     "@cypress/browserify-preprocessor": "^3.0.2",
     "@cypress/vue2": "^2.0.1",
     "@nextcloud/babel-config": "^1.0.0",
-    "@nextcloud/cypress": "^1.0.0-beta.2",
+    "@nextcloud/cypress": "^1.0.0-beta.7",
     "@nextcloud/eslint-config": "^8.2.1",
     "@nextcloud/stylelint-config": "^2.1.2",
     "@nextcloud/webpack-vue-config": "^5.5.1",
@@ -139,7 +139,7 @@
     "babel-loader": "^9.1.0",
     "babel-loader-exclude-node-modules-except": "^1.2.1",
     "css-loader": "^6.7.1",
-    "cypress": "^12.11.0",
+    "cypress": "^13.7.1",
     "cypress-wait-until": "^1.7.2",
     "dockerode": "^3.3.5",
     "eslint-plugin-cypress": "^2.13.3",
